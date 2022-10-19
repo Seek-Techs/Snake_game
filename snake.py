@@ -42,7 +42,7 @@ sc.color('black')
 sc.penup()
 sc.hideturtle()
 sc.goto(0, 260)
-sc.write('score; 0 High score: 0', align = 'center', font =('ds-digital', 24, 'normal'))
+sc.write('score: 0 High score: 0', align = 'center', font =('ds-digital', 24, 'normal'))
 
 # Functions
 def go_up():
